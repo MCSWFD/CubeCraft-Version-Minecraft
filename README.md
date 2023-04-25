@@ -58,7 +58,7 @@ You are allowed to:
 - Use it private with credits to me.
 - Copy the source code to create an own version or other things only with credits to me.
 
-You are NOT allowed to:
+You are **NOT** allowed to:
 - Use The CLient to do anything that violated Mojangs terms of use for Minecraft.
 - Release Minecraft versions or modifications that allow you to play without having bought Minecraft from Mojang.
 - Release modified or unmodified versions of THIS CLIENT anywhere without an explicit written permission.
