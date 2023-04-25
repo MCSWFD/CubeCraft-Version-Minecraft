@@ -49,7 +49,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 No warranties. If this does not work for you, or causes any damage, it's your problem. Use it at own risk.
 
-IMPOERTANT:
+IMPORTANT:
 
 The Licensor retains all rights, title, and interest in and to the Software, including all intellectual property rights therein. 
 
